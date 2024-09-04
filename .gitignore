@@ -1,0 +1,10 @@
+# Ignore the dataset directory
+/split_ttv_dataset_type_of_plants/
+
+# Ignore all image files (common extensions)
+*.jpg
+*.png
+*.jpeg
+*.gif
+
+# Ignore other files or folders
